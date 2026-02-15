@@ -9,7 +9,7 @@ Using a Trie:
     Prefix searching becomes very efficient
     Memory is optimized for large vocabularies
 
-Programming Language: (Mention your language here – e.g., Python / Java / C++)
+Programming Language: Python & C
 Data Structure: Trie (Prefix Tree)
 
 How It Works
